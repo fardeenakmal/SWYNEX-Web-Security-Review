@@ -1,0 +1,9 @@
+# SWYNEX-Web-Security-Review Requirements
+# Core laboratory and defensive tools are built with Python 3.8+ standard library (zero external pip packages required).
+# The packages below are optional development/testing enhancements.
+
+pytest>=7.4.0
+pytest-cov>=4.1.0
+requests>=2.31.0
+flake8>=6.1.0
+bandit>=1.7.5

@@ -1,0 +1,8 @@
+SWYNEX TECHNOLOGIES - CONTRACTOR GUIDELINES (PUBLIC)
+====================================================
+Welcome to SWYNEX Technologies Contractor Onboarding.
+
+1. All code contributions must adhere to PEP-8 and security standards.
+2. Production database credentials must NEVER be checked into version control.
+3. Access to corporate servers requires active VPN and MFA verification.
+4. Report any suspected vulnerabilities directly to security@swynex.local.
