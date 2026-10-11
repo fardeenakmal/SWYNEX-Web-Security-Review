@@ -94,3 +94,4 @@ def update_user_profile_secure(user_id: int, fields: dict) -> Tuple[bool, str]:
 
 ## ✅ Verification
 Validated via automated test cases `test_08_mass_assignment_prevented_by_field_whitelist` and `test_13_bola_idor_access_control_logic` in `tests/test_web_security_controls.py`.
+

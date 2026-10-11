@@ -74,3 +74,4 @@ html_content = f"<h3>Search results for: {safe_q}</h3>"
 
 ## ✅ Verification
 Validated via automated test cases `test_04_xss_sanitization_neutralizes_script_tags` and `test_05_content_security_policy_header_enforced` in `tests/test_web_security_controls.py`.
+

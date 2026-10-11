@@ -79,3 +79,4 @@ def resolve_safe_file_path(base_dir: str, requested_filename: str) -> str:
 
 ## ✅ Verification
 Validated via automated test case `test_06_path_traversal_mitigated_by_canonical_boundary_check` in `tests/test_web_security_controls.py`.
+

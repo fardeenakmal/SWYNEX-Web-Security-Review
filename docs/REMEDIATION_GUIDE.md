@@ -287,3 +287,4 @@ Developers must run the following checks prior to submitting code to production:
 - [x] **Payload Binding:** Use explicit DTO allowlists for updates; never bind unvalidated JSON to database models.
 - [x] **Cookies:** Set `HttpOnly; Secure; SameSite=Strict` on all sensitive authentication tokens.
 - [x] **Automated Tests:** Execute `python3 -m unittest tests/test_web_security_controls.py` ensuring 100% pass rate.
+

@@ -212,3 +212,4 @@ All activities documented in this repository were conducted within an authorized
 - **Lead Assessor:** Fardeen Akmal  
 - **Contact:** `fardeenakmal123@gmail.com`  
 - **Project:** SWYNEX Web Security Review (Task 3)  
+

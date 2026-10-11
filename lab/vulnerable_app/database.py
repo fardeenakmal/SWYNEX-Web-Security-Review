@@ -296,3 +296,4 @@ def add_ticket(author_id: int, author_name: str, title: str, comment: str) -> in
 if __name__ == "__main__":
     init_db()
     print(f"[*] Initialized vulnerable portal database at: {DB_FILE}")
+

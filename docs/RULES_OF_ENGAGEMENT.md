@@ -74,3 +74,4 @@ The lead assessor certifies that all security review actions performed in this r
 - **Email:** `fardeenakmal123@gmail.com`  
 - **Role:** Web Application Security Intern, SWYNEX Technologies  
 - **Date:** October 2026  
+

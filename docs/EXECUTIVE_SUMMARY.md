@@ -104,3 +104,4 @@ flowchart TD
 - **Days 1–30:** Merge the secure app reference implementation into staging, rotate all legacy application tokens, and mandate `HttpOnly`, `Secure`, and `SameSite=Strict` cookie attributes.
 - **Days 31–60:** Enforce static analysis (Bandit) within git pre-commit hooks, configure cloud egress controls to deny outbound metadata traffic, and deploy a WAF reverse proxy.
 - **Days 61–90:** Mandate biannual penetration testing and establish an ongoing DevSecOps curriculum for all software engineering teams.
+

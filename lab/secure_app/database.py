@@ -253,3 +253,4 @@ def add_ticket_secure(author_id: int, author_name: str, title: str, comment: str
 if __name__ == "__main__":
     init_db()
     print(f"[*] Initialized secure portal database at: {DB_FILE}")
+

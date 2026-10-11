@@ -92,3 +92,4 @@ def verify_secure_jwt(token: str, secret_key: str) -> Optional[Dict[str, Any]]:
 
 ## ✅ Verification
 Validated via automated test cases `test_09_vulnerable_jwt_accepts_algorithm_none`, `test_10_secure_jwt_enforces_hs256_and_rejects_none_algorithm`, `test_12_password_hashing_pbkdf2_vs_md5`, and `test_14_cookie_security_directives_format` in `tests/test_web_security_controls.py`.
+

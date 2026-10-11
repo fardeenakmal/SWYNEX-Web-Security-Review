@@ -97,3 +97,4 @@ def validate_and_save_upload(client_filename: str, file_data: bytes, upload_dire
 
 ## ✅ Verification
 Validated via automated test case `test_07_file_upload_rejects_dangerous_extensions_and_fake_magic_bytes` in `tests/test_web_security_controls.py`.
+

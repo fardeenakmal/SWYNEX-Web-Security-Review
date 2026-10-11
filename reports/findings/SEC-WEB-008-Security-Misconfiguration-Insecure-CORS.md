@@ -90,3 +90,4 @@ def get_defense_in_depth_headers() -> Dict[str, str]:
 
 ## ✅ Verification
 Validated via automated test cases `test_11_defense_in_depth_headers_present` and `test_15_web_security_auditor_compliance_scoring` in `tests/test_web_security_controls.py`.
+
